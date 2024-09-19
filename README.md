@@ -18,6 +18,7 @@ These are some of my skills, but I'm not restricted to just that:
   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title= "C" alt= "C" width="50" height="50"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title= "Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src= "https://ni.scene7.com/is/image/ni/lv_2017?&$ni-icon-lg$" title= "LabView" alt="LabView" width="50" height="50"/>&nbsp;
 </div>
 
 #### Libraries 
